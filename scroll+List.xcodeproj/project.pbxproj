@@ -255,6 +255,7 @@
 				GCC_PREFIX_HEADER = "scroll+List/scroll+List-Prefix.pch";
 				INFOPLIST_FILE = "scroll+List/scroll+List-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos6.0;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -266,6 +267,7 @@
 				GCC_PREFIX_HEADER = "scroll+List/scroll+List-Prefix.pch";
 				INFOPLIST_FILE = "scroll+List/scroll+List-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos6.0;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
